@@ -2769,6 +2769,14 @@ let cards = [
     author: "JoeBoy61",
     githubLink: "https://github.com/JoeBoy61",
   }
+  {
+  {
+   artName: "Magnificent Art",
+   pageLink: "./Art/asadosky/index.html",
+   imageLink:"./Art/asadosky/magnificent-art.gif",
+   author: "asadosky",
+   githubLink: "https://github.com/asadosky",
+  }
 ];
 
 // +--------------------------------------------------------------------------------+

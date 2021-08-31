@@ -1,0 +1,33 @@
+.circle {
+  width: 10%;
+  height: 20%;
+  position: absolute;
+  top: 5%;
+  background: #995599;
+  border-radius: 50%;
+  animation-name: changecolor;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes changecolor {
+	from {background: #995599;}
+	to {background: #340034;}
+}
+
+.white-circle {
+  width: 5%;
+  height: 5%;
+  position: absolute;
+  top: 5%;
+  background: white;
+  border-radius: 50%;
+}
+
+.text{
+	top: 5%;
+	position: absolute;
+	color:#995599;
+	width: 50%;
+
+}
